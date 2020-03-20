@@ -1,7 +1,6 @@
 # Docker Examples
 
-This is a placeholder repository to keep a set of Docker examples.
+This repo contains a set of Docker examples.
 
-At the moment, only the skeleton version of the repo is committed. Examples would be committed soon. 
-
-** work in progress **
+- [Spring Boot with Docker](https://github.com/bijeshos/spring-boot-with-docker)
+    - This is a simple Sprint Boot application with Docker integration
